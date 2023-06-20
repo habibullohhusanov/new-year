@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+  footer > .contact {
+    margin: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  footer > .about {
+    margin: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}

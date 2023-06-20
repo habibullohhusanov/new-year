@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+::selection {
+	color: gold;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+footer {
+	overflow: hidden;
+	position: absolute;
+	top: 70vh;
+}
+footer > .contact {
+	float: left;
+	margin: 40px;
+	margin-left: 17rem;
+	margin-bottom: 0;
+}
+footer > .contact > a {
+	color: #00fffa;
+	text-decoration: none;
+	display: block;
+	margin: 40px;
+}
+footer > .contact > a > span {
+	color: #00fffa;
+}
+footer > .contact > a > i {
+	color: #00fffa;
+	font-size: 45px;
+}
+footer > .about {
+	float: left;
+	margin: 60px;
+	margin-left: 350px;
+	margin-bottom: 0;
+}
+footer > .about > p {
+	color: #00fffa;
+	font-size: 15px;
+	line-height: 40px;
+}
+footer > .about > p:nth-child(1) {
+	font-size: 20px;
+	font-weight: bolder;
+}
+/*Husanov Habibulloh*/
